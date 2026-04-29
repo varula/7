@@ -38,12 +38,12 @@ export function ProductionSidebar() {
       <SidebarHeader className="border-b border-sidebar-border pb-3">
         <div className="flex items-center gap-2 px-2">
           <div className="flex h-8 w-8 items-center justify-center rounded-md bg-primary text-primary-foreground text-xs font-bold">
-            PS
+            AA
           </div>
           {!collapsed && (
             <div className="flex flex-col">
-              <span className="text-sm font-semibold text-sidebar-foreground">ProdSyncc</span>
-              <span className="text-[10px] text-sidebar-foreground/60">Complete real-time factory visibility</span>
+              <span className="text-sm font-semibold text-sidebar-foreground">Armana Apparels</span>
+              <span className="text-[10px] text-sidebar-foreground/60">Production ERP</span>
             </div>
           )}
         </div>
