@@ -42,8 +42,8 @@ export function ProductionSidebar() {
           </div>
           {!collapsed && (
             <div className="flex flex-col">
-              <span className="text-sm font-semibold text-sidebar-foreground">Armana Apparels</span>
-              <span className="text-[10px] text-sidebar-foreground/60">Production ERP</span>
+              <span className="text-sm font-semibold text-sidebar-foreground">ProdSync</span>
+              <span className="text-[10px] text-sidebar-foreground/60">Complete real-time factory visibility</span>
             </div>
           )}
         </div>
