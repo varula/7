@@ -10,8 +10,8 @@ export function ProductionLayout({ children }: { children: React.ReactNode }) {
           <header className="h-12 flex items-center border-b bg-card px-4 gap-3">
             <SidebarTrigger />
             <div className="flex items-center gap-2">
-              <span className="text-sm font-semibold text-foreground">Armana Apparels & Fashions Ltd.</span>
-              <span className="text-xs text-muted-foreground">| Production Module</span>
+              <span className="text-sm font-semibold text-foreground">ProdSyncc</span>
+              <span className="text-xs text-muted-foreground">| Complete real-time factory visibility</span>
             </div>
             <div className="ml-auto flex items-center gap-3">
               <span className="text-xs text-muted-foreground">
